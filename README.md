@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Erin!
 
-🌱 Software Engineering student with a former degree in Economics<br/>
+🌱 Software Engineering university student with a former bachelor's degree in Economics<br/>
 💻 Became self-taught in mobile development and developed two mobile applications<br/>
 📊 Passion for data analytics and hope to complete my master's degree in data science<br/>
 
