@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, I'm Erin! 👋
 
+🌱 Software Engineering student with a former degree in Economics<br/>
+💻 Became self-taught in mobile development and developed two mobile applications<br/>
+📊 Passion for data analytics and hope to complete my master's degree in data science<br/>
+
+[![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknovoa)](https://github.com/eknovoa/github-readme-stats)
 <!--
 **eknovoa/eknovoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
