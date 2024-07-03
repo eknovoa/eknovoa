@@ -2,7 +2,6 @@
 
 🌱 Software Engineering university student with a former bachelor's degree in Economics<br/>
 💻 Became self-taught in mobile development and developed two mobile applications<br/>
-📊 Passion for data analytics and hope to complete my master's degree in data science<br/>
 
 You can check out my links below:<br/>
 [My Software Engineering Portfolio](https://erin-novoa-portfolio.w3spaces.com/)<br/>
