@@ -26,7 +26,7 @@ You can check out my links below:<br/>
 - 💬 Ask me about any of my projects!
 - 📫 How to reach me: erinnovoa@gmail.com
 - 😄 Pronouns: She/Her
-- 
+
 <!--
 [![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknovoa)](https://github.com/eknovoa/github-readme-stats)
 
