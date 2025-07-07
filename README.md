@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Erin!
 
-🌱 Software Engineering university student with a former bachelor's degree in Economics<br/>
+🌱 Recent graduate with second degree in Software Engineering and a former bachelor's degree in Economics<br/>
 💻 Became self-taught in mobile development and developed two mobile applications<br/>
 
 You can check out my links below:<br/>
