@@ -22,7 +22,7 @@ You can check out my links below:<br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br/>
 
-- 🌱 I’m currently studying back-end development with Boot.Dev and front-end devevlopment with Scrimba.
+- 🌱 I’m currently studying back-end development with Boot.Dev and front-end development with Scrimba.
 - 💬 Ask me about any of my projects!
 - 📫 How to reach me: erinnovoa@gmail.com
 - 😄 Pronouns: She/Her
