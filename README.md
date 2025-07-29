@@ -4,7 +4,7 @@
 💻 Became self-taught in mobile development and developed two mobile applications<br/>
 
 You can check out my links below:<br/>
-[My Software Engineering Portfolio](https://erin-novoa-portfolio.w3spaces.com/)<br/>
+[My Software Engineering Portfolio](https://eknovoa.github.io/erin-novoa-portfolio/)<br/>
 [My Tableau Portfolio](https://public.tableau.com/app/profile/erin.novoa/vizzes)<br/>
 [My Data Analytics Portfolio - Notion](https://likeable-stag-15c.notion.site/ERIN-NOVOA-PORTFOLIO-b19b702a3caa4bb191ccefeae3b608a5?pvs=74)<br/>
 
