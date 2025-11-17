@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Erin!
 
-🌱 Incoming Masters of Science in Data Science student with Eastern University (starting January 2026)
+🌱 Incoming Masters of Science in Data Science student with Eastern University (starting January 2026)<br/>
 🎓 Recent graduate with second degree in Software Engineering and a former bachelor's degree in Economics<br/>
 💻 Became self-taught in mobile development and developed two mobile applications<br/>
 
