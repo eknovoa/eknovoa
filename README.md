@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Erin!
 
-🌱 Recent graduate with second degree in Software Engineering and a former bachelor's degree in Economics<br/>
+🌱 Incoming Masters of Science in Data Science student with Eastern University (starting January 2026)
+🎓 Recent graduate with second degree in Software Engineering and a former bachelor's degree in Economics<br/>
 💻 Became self-taught in mobile development and developed two mobile applications<br/>
 
 You can check out my links below:<br/>
@@ -23,7 +24,7 @@ You can check out my links below:<br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br/>
 
-- 🌱 I’m currently studying back-end development with Boot.Dev and front-end development with Scrimba.
+- 🌱 I’m currently studying for my PCED™ – Certified Entry-Level Data Analyst with Python exam
 - 💬 Ask me about any of my projects!
 - 📫 How to reach me: erinnovoa@gmail.com
 - 😄 Pronouns: She/Her
