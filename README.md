@@ -26,7 +26,6 @@ You can check out my links below:<br/>
 
 - 🌱 I’m currently studying for my PCED™ – Certified Entry-Level Data Analyst with Python exam
 - 💬 Ask me about any of my projects!
-- 📫 How to reach me: erinnovoa@gmail.com
 - 😄 Pronouns: She/Her
 
 <!--
