@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Erin!
 
 🌱 Recent Masters of Science in Data Science graduate with Eastern University (October 2026)<br/>
-🎓 Recent graduate with second degree in Software Engineering and a former bachelor's degree in Economics<br/>
+🎓 Earned two Bachelor degrees, one in Software Engineering and one in Economics<br/>
 💻 Became self-taught in mobile development and developed two mobile applications<br/>
 
 You can check out my links below:<br/>
